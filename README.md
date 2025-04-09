@@ -1,13 +1,35 @@
-# Developer Portfolios
+# Portfolios de Développeurs
 
-A list of developer portfolios for your inspiration
+Découvrez une sélection de portfolios de développeurs pour vous inspirer dans la création du vôtre.
 
-Have you built a portfolio? Are you proud of it?! Open a [PR](./CONTRIBUTING.md) to this repo and let's showcase your work! Refer to the [CONTRIBUTING](./CONTRIBUTING.md) file for direction.
+**Vous avez créé un portfolio ? Vous en êtes fier ?** Contribuez à ce projet en soumettant une [Pull Request (PR)](./CONTRIBUTING.md) pour partager votre travail ! Consultez le fichier [CONTRIBUTING.md](./CONTRIBUTING.md) pour des instructions détaillées.
 
-This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
-[<img width="597" alt="Portfolio" src="https://user-images.githubusercontent.com/7671983/64871043-bab42880-d644-11e9-8e87-4a98d06339c9.png">](https://twitter.com/ASpittel/status/1171604728951779328)
+---
 
-Hopefully this repo can serve as a source of inspiration for your portfolio!
+Ce dépôt est conçu pour :
+
+- Offrir des idées et des exemples pour enrichir votre portfolio.
+- Mettre en valeur vos compétences et projets devant des employeurs, clients ou collègues.
+
+### Qu'est-ce qu'un portfolio de développeur ?
+
+Un portfolio est une vitrine professionnelle qui :
+
+- Présente **votre expérience**, vos compétences et vos projets.
+- Montre votre style et personnalité via un design unique.
+- Renforce votre crédibilité auprès des recruteurs et collaborateurs.
+
+### Que peut inclure un portfolio ?
+
+- Une présentation de vous et votre parcours.
+- Une liste de vos **projets clés**, accompagnés de descriptions et de liens.
+- Vos **compétences techniques** (langages, outils, frameworks).
+- Des liens vers vos profils en ligne (GitHub, LinkedIn, etc.).
+- Une touche personnelle, comme des anecdotes ou vos valeurs.
+
+---
+
+Prêt à commencer ? Inspirez-vous des portfolios existants et démarquez-vous ! 😊
 
 ---
 
